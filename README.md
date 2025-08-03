@@ -72,5 +72,3 @@ bash
 git add README.md
 git commit -m "Add API documentation to README"
 git push
-
-Let me know if you want this converted into a PDF too.
